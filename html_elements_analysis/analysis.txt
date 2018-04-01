@@ -1,0 +1,3 @@
+home page url:https://www.thefacewemake.com/page/{pagenumber}/
+get html context from the specific url --> get the apecific spans by the format: class="entry-image flickr-image"
+-->get element of "a" by the format:class="entry-image-post-link"
